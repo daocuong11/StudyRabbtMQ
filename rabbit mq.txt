@@ -1,0 +1,12 @@
+Refer link:
+	https://www.mastercode.vn/blog/web-development/rabbitmq-la-gi-chia-khoa-giup-cac-he-thong-khac-nhau-ket-noi-va-mo-rong.99
+	http://www.hanhtranglaptrinh.com/2017/04/rabbitmq-exchange-types.html
+	
+	
+Tutorial:
+	https://www.rabbitmq.com/dotnet-api-guide.html
+	
+	
+Install RabbitMQ server:
+	https://www.rabbitmq.com/install-windows.html
+	

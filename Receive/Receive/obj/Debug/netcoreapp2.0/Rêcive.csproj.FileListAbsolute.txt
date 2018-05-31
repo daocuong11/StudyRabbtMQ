@@ -1,0 +1,11 @@
+c:\users\cuonglam\source\repos\Rêcive\Rêcive\bin\Debug\netcoreapp2.0\Rêcive.deps.json
+c:\users\cuonglam\source\repos\Rêcive\Rêcive\bin\Debug\netcoreapp2.0\Rêcive.runtimeconfig.json
+c:\users\cuonglam\source\repos\Rêcive\Rêcive\bin\Debug\netcoreapp2.0\Rêcive.runtimeconfig.dev.json
+c:\users\cuonglam\source\repos\Rêcive\Rêcive\bin\Debug\netcoreapp2.0\Rêcive.dll
+c:\users\cuonglam\source\repos\Rêcive\Rêcive\obj\Debug\netcoreapp2.0\Rêcive.csprojAssemblyReference.cache
+c:\users\cuonglam\source\repos\Rêcive\Rêcive\obj\Debug\netcoreapp2.0\Rêcive.csproj.CoreCompileInputs.cache
+c:\users\cuonglam\source\repos\Rêcive\Rêcive\obj\Debug\netcoreapp2.0\Rêcive.AssemblyInfoInputs.cache
+c:\users\cuonglam\source\repos\Rêcive\Rêcive\obj\Debug\netcoreapp2.0\Rêcive.AssemblyInfo.cs
+c:\users\cuonglam\source\repos\Rêcive\Rêcive\bin\Debug\netcoreapp2.0\Rêcive.pdb
+c:\users\cuonglam\source\repos\Rêcive\Rêcive\obj\Debug\netcoreapp2.0\Rêcive.dll
+c:\users\cuonglam\source\repos\Rêcive\Rêcive\obj\Debug\netcoreapp2.0\Rêcive.pdb

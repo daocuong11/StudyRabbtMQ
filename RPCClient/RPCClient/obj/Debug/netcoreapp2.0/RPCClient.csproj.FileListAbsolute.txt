@@ -1,0 +1,19 @@
+C:\Users\cuonglam\source\repos\RPCClient\RPCClient\bin\Debug\netcoreapp2.0\RPCClient.deps.json
+C:\Users\cuonglam\source\repos\RPCClient\RPCClient\bin\Debug\netcoreapp2.0\RPCClient.runtimeconfig.json
+C:\Users\cuonglam\source\repos\RPCClient\RPCClient\bin\Debug\netcoreapp2.0\RPCClient.runtimeconfig.dev.json
+C:\Users\cuonglam\source\repos\RPCClient\RPCClient\bin\Debug\netcoreapp2.0\RPCClient.dll
+C:\Users\cuonglam\source\repos\RPCClient\RPCClient\obj\Debug\netcoreapp2.0\RPCClient.csprojAssemblyReference.cache
+C:\Users\cuonglam\source\repos\RPCClient\RPCClient\obj\Debug\netcoreapp2.0\RPCClient.csproj.CoreCompileInputs.cache
+C:\Users\cuonglam\source\repos\RPCClient\RPCClient\obj\Debug\netcoreapp2.0\RPCClient.AssemblyInfoInputs.cache
+C:\Users\cuonglam\source\repos\RPCClient\RPCClient\obj\Debug\netcoreapp2.0\RPCClient.AssemblyInfo.cs
+C:\Users\cuonglam\Desktop\Study MQ\RPCClient\RPCClient\bin\Debug\netcoreapp2.0\RPCClient.deps.json
+C:\Users\cuonglam\Desktop\Study MQ\RPCClient\RPCClient\bin\Debug\netcoreapp2.0\RPCClient.runtimeconfig.json
+C:\Users\cuonglam\Desktop\Study MQ\RPCClient\RPCClient\bin\Debug\netcoreapp2.0\RPCClient.runtimeconfig.dev.json
+C:\Users\cuonglam\Desktop\Study MQ\RPCClient\RPCClient\bin\Debug\netcoreapp2.0\RPCClient.dll
+C:\Users\cuonglam\Desktop\Study MQ\RPCClient\RPCClient\bin\Debug\netcoreapp2.0\RPCClient.pdb
+C:\Users\cuonglam\Desktop\Study MQ\RPCClient\RPCClient\obj\Debug\netcoreapp2.0\RPCClient.csprojAssemblyReference.cache
+C:\Users\cuonglam\Desktop\Study MQ\RPCClient\RPCClient\obj\Debug\netcoreapp2.0\RPCClient.csproj.CoreCompileInputs.cache
+C:\Users\cuonglam\Desktop\Study MQ\RPCClient\RPCClient\obj\Debug\netcoreapp2.0\RPCClient.AssemblyInfoInputs.cache
+C:\Users\cuonglam\Desktop\Study MQ\RPCClient\RPCClient\obj\Debug\netcoreapp2.0\RPCClient.AssemblyInfo.cs
+C:\Users\cuonglam\Desktop\Study MQ\RPCClient\RPCClient\obj\Debug\netcoreapp2.0\RPCClient.dll
+C:\Users\cuonglam\Desktop\Study MQ\RPCClient\RPCClient\obj\Debug\netcoreapp2.0\RPCClient.pdb

@@ -1,0 +1,19 @@
+C:\Users\cuonglam\source\repos\RPCServer\RPCServer\bin\Debug\netcoreapp2.0\RPCServer.deps.json
+C:\Users\cuonglam\source\repos\RPCServer\RPCServer\bin\Debug\netcoreapp2.0\RPCServer.runtimeconfig.json
+C:\Users\cuonglam\source\repos\RPCServer\RPCServer\bin\Debug\netcoreapp2.0\RPCServer.runtimeconfig.dev.json
+C:\Users\cuonglam\source\repos\RPCServer\RPCServer\bin\Debug\netcoreapp2.0\RPCServer.dll
+C:\Users\cuonglam\source\repos\RPCServer\RPCServer\obj\Debug\netcoreapp2.0\RPCServer.csprojAssemblyReference.cache
+C:\Users\cuonglam\source\repos\RPCServer\RPCServer\obj\Debug\netcoreapp2.0\RPCServer.csproj.CoreCompileInputs.cache
+C:\Users\cuonglam\source\repos\RPCServer\RPCServer\obj\Debug\netcoreapp2.0\RPCServer.AssemblyInfoInputs.cache
+C:\Users\cuonglam\source\repos\RPCServer\RPCServer\obj\Debug\netcoreapp2.0\RPCServer.AssemblyInfo.cs
+C:\Users\cuonglam\Desktop\Study MQ\RPCServer\RPCServer\obj\Debug\netcoreapp2.0\RPCServer.csprojAssemblyReference.cache
+C:\Users\cuonglam\Desktop\Study MQ\RPCServer\RPCServer\obj\Debug\netcoreapp2.0\RPCServer.csproj.CoreCompileInputs.cache
+C:\Users\cuonglam\Desktop\Study MQ\RPCServer\RPCServer\obj\Debug\netcoreapp2.0\RPCServer.AssemblyInfoInputs.cache
+C:\Users\cuonglam\Desktop\Study MQ\RPCServer\RPCServer\obj\Debug\netcoreapp2.0\RPCServer.AssemblyInfo.cs
+C:\Users\cuonglam\Desktop\Study MQ\RPCServer\RPCServer\bin\Debug\netcoreapp2.0\RPCServer.deps.json
+C:\Users\cuonglam\Desktop\Study MQ\RPCServer\RPCServer\bin\Debug\netcoreapp2.0\RPCServer.runtimeconfig.json
+C:\Users\cuonglam\Desktop\Study MQ\RPCServer\RPCServer\bin\Debug\netcoreapp2.0\RPCServer.runtimeconfig.dev.json
+C:\Users\cuonglam\Desktop\Study MQ\RPCServer\RPCServer\bin\Debug\netcoreapp2.0\RPCServer.dll
+C:\Users\cuonglam\Desktop\Study MQ\RPCServer\RPCServer\bin\Debug\netcoreapp2.0\RPCServer.pdb
+C:\Users\cuonglam\Desktop\Study MQ\RPCServer\RPCServer\obj\Debug\netcoreapp2.0\RPCServer.dll
+C:\Users\cuonglam\Desktop\Study MQ\RPCServer\RPCServer\obj\Debug\netcoreapp2.0\RPCServer.pdb

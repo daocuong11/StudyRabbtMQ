@@ -1,0 +1,22 @@
+C:\Users\cuonglam\source\repos\Send\Send\bin\Debug\netcoreapp2.0\Send.deps.json
+C:\Users\cuonglam\source\repos\Send\Send\bin\Debug\netcoreapp2.0\Send.runtimeconfig.json
+C:\Users\cuonglam\source\repos\Send\Send\bin\Debug\netcoreapp2.0\Send.runtimeconfig.dev.json
+C:\Users\cuonglam\source\repos\Send\Send\bin\Debug\netcoreapp2.0\Send.dll
+C:\Users\cuonglam\source\repos\Send\Send\obj\Debug\netcoreapp2.0\Send.csprojAssemblyReference.cache
+C:\Users\cuonglam\source\repos\Send\Send\obj\Debug\netcoreapp2.0\Send.csproj.CoreCompileInputs.cache
+C:\Users\cuonglam\source\repos\Send\Send\obj\Debug\netcoreapp2.0\Send.AssemblyInfoInputs.cache
+C:\Users\cuonglam\source\repos\Send\Send\obj\Debug\netcoreapp2.0\Send.AssemblyInfo.cs
+C:\Users\cuonglam\source\repos\Send\Send\bin\Debug\netcoreapp2.0\Send.pdb
+C:\Users\cuonglam\source\repos\Send\Send\obj\Debug\netcoreapp2.0\Send.dll
+C:\Users\cuonglam\source\repos\Send\Send\obj\Debug\netcoreapp2.0\Send.pdb
+C:\Users\cuonglam\Desktop\Study MQ\Send\Send\bin\Debug\netcoreapp2.0\Send.deps.json
+C:\Users\cuonglam\Desktop\Study MQ\Send\Send\bin\Debug\netcoreapp2.0\Send.runtimeconfig.json
+C:\Users\cuonglam\Desktop\Study MQ\Send\Send\bin\Debug\netcoreapp2.0\Send.runtimeconfig.dev.json
+C:\Users\cuonglam\Desktop\Study MQ\Send\Send\bin\Debug\netcoreapp2.0\Send.dll
+C:\Users\cuonglam\Desktop\Study MQ\Send\Send\bin\Debug\netcoreapp2.0\Send.pdb
+C:\Users\cuonglam\Desktop\Study MQ\Send\Send\obj\Debug\netcoreapp2.0\Send.csprojAssemblyReference.cache
+C:\Users\cuonglam\Desktop\Study MQ\Send\Send\obj\Debug\netcoreapp2.0\Send.csproj.CoreCompileInputs.cache
+C:\Users\cuonglam\Desktop\Study MQ\Send\Send\obj\Debug\netcoreapp2.0\Send.AssemblyInfoInputs.cache
+C:\Users\cuonglam\Desktop\Study MQ\Send\Send\obj\Debug\netcoreapp2.0\Send.AssemblyInfo.cs
+C:\Users\cuonglam\Desktop\Study MQ\Send\Send\obj\Debug\netcoreapp2.0\Send.dll
+C:\Users\cuonglam\Desktop\Study MQ\Send\Send\obj\Debug\netcoreapp2.0\Send.pdb
